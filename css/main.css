@@ -139,7 +139,8 @@ p.lead {
 	font-family: "roboto-light", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #4d4d4d;
+	font-weight: 1000;
+	color: #020507;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1256,7 +1257,7 @@ header .social-links ul li a:focus {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #FFFFFF;
+	background-color: whitesmoke;
 	opacity: .7;
 }
 
