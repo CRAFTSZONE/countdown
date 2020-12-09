@@ -37,7 +37,6 @@
 		transitionDuration: 2500,
 		delay: 5000,
     	slides: [
-			{ src: "images/slides/04.jpg" },
        		{ src: "images/slides/03.jpg" },
         	{ src: "images/slides/02.jpg" },
         	{ src: "images/slides/01.jpg" },
