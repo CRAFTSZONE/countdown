@@ -41,12 +41,9 @@
         	{ src: "images/slides/02.jpg" },
         	{ src: "images/slides/01.jpg" },
         	{ src: "images/slides/05.jpg" },
-		{ src: "images/slides/06.jpg" },
         	{ src: "images/slides/07.jpg" },
 		{ src: "images/slides/09.jpg" },
-		{ src: "images/slides/10.jpg" },
-		{ src: "images/slides/11.jpg" },
-
+		{ src: "images/slides/10.jpg" }
     	]
 	});
 
